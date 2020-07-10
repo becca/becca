@@ -1,4 +1,4 @@
-### &#1513; &#1500; &#1493; &#1501; :wave: 
+**&#1513; &#1500; &#1493; &#1501;** :wave: 
 
 I'm a product manager focused on community collaboration on github :octocat:.
 
