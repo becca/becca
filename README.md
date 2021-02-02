@@ -1,8 +1,6 @@
 **&#1513; &#1500; &#1493; &#1501;** :wave: 
 
-I'm a product manager focused on community collaboration on github :octocat:.
+I have been a product manager at GitHub for just over 2.5 years working on Notifications, `jump-to`, Discussions, and lots of other :cool: projects. 
 
-My current product area is **`Discussions`**. 
-
-If you would like to connect to chat about community on github [open a discussion](https://github.com/becca/becca/discussions)!
+I now manage the Technical Program Management team at Github overseeing our programs/product lines in the Community, Coding and Collaboration spaces :black_heart:
 
